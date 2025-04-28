@@ -12,7 +12,6 @@ const rajdhani = Rajdhani({
 export const metadata: Metadata = {
   title: "Decadence - Advanced Frame Interpolation",
   description: "Transform your videos with AI-powered frame interpolation for smoother, more fluid motion.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
